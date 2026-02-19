@@ -1,3 +1,2 @@
-# week5
-Тестовый репозиторий по Мобильной Разработке. ВТиПО 23Б Максут Ералхан, Мухтаров Дулат
-Пустой проект Дарт с template кодом
+A sample command-line application with an entrypoint in `bin/`, library code
+in `lib/`, and example unit test in `test/`.

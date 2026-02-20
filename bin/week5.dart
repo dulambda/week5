@@ -7,5 +7,4 @@ void main(List<String> arguments) {
   print("Mansur");
   print("Mansur2");
   print("Mansur New");
-  print("Mansur New2");
 }

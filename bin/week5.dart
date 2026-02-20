@@ -6,7 +6,7 @@ void main(List<String> arguments) {
   print('Peace');
   print("Mansur");
   print("Mansur2");
-  print("New changes");
+  print("Newest commit");
 }
 
 
